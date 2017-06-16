@@ -1,0 +1,20 @@
+{
+  "name": "next-reactjs-ba",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Gabriel Miranda",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "next": "beta",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-waypoint": "^7.0.3"
+  }
+}
